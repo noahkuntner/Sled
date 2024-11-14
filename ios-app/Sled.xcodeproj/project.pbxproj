@@ -171,7 +171,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
-				LastUpgradeCheck = 1600;
+				LastUpgradeCheck = 1610;
 				TargetAttributes = {
 					BE9A9DEA2CC168B5000EBC37 = {
 						CreatedOnToolsVersion = 16.0;
@@ -383,7 +383,6 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
-				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -400,7 +399,7 @@
 				DEVELOPMENT_TEAM = B74Y7B5GNU;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = Sled_App;
+				INFOPLIST_KEY_CFBundleDisplayName = Sled;
 				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Show the user location.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -413,7 +412,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Sled.Sled-App";
+				PRODUCT_BUNDLE_IDENTIFIER = Sled.SledApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -432,7 +431,7 @@
 				DEVELOPMENT_TEAM = B74Y7B5GNU;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = Sled_App;
+				INFOPLIST_KEY_CFBundleDisplayName = Sled;
 				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Show the user location.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -445,7 +444,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Sled.Sled-App";
+				PRODUCT_BUNDLE_IDENTIFIER = Sled.SledApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;

@@ -9,7 +9,7 @@ struct ContentView: View {
         NavigationStack {
             VStack {
                 Spacer()
-                Text("Welcome to the Activity Booking App")
+                Text("Welcome to the Activity Discovery App")
                     .font(.largeTitle)
                     .multilineTextAlignment(.center)
                     .padding(.horizontal)
